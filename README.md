@@ -5,3 +5,6 @@
 4- Descrição do Projeto: Ao verificar a entidade secundária (Atividades / Eventos / Visitações), escolhi essa opção para falar um pouco sobre Belo Horizonte a partir do meu olhar. Nesse ambiente irei colocar a minha BH.
 5- Wireframe do projeto: ![alt text](/assets/img/Wireframe.png)
 6- Home-page criada: ![alt text](/assets/img/image-1.png)
+7- Versão Desktop 01: ![alt text](/assets/img/pagina%20web.png)
+7- Versão Desktop 01: ![alt text](/assets/img/pagina%20web%202.png)
+8- Versão Mobile: 
