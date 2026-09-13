@@ -36,3 +36,9 @@
     border: 1px solid #222222;
     cursor: pointer;
 }
+
+.navegacao {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
