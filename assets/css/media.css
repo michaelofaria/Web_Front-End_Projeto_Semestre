@@ -2,6 +2,9 @@
 
     .cabecalho {
         flex-direction: column;
+        height: auto;
+        padding: 20px;
+        gap: 20px;
     }
 
     .navegacao {
@@ -14,8 +17,16 @@
         height: 250px;
     }
 
-    .cards {
+    .artigos {
         grid-template-columns: 1fr;
     }
 
+}
+
+.conteudo {
+    flex-direction: column;
+}
+
+.area-principal {
+    padding-left: 0;
 }

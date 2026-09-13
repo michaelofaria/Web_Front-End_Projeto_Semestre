@@ -1,5 +1,10 @@
 /* MENU LATERAL */
-
+@media (max-width: 768px) {
+    .menu {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
 .menu {
     width: 130px;
     flex-shrink: 0;

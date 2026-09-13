@@ -1,8 +1,8 @@
-@import url("/assets/css/cabecalho.css");
-@import url("/assets/css/corpo.css");
-@import url("/assets/css/menu.css");
-@import url("/assets/css/rodape.css");
-@import url("/assets/css/media.css");
+@import url("cabecalho.css");
+@import url("corpo.css");
+@import url("menu.css");
+@import url("rodape.css");
+@import url("media.css");
 
 
 /* CONFIGURAÇÕES GERAIS */
