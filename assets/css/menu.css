@@ -3,9 +3,7 @@
 .menu {
     width: 130px;
     flex-shrink: 0;
-
     padding: 15px 10px;
-
     border: 1px solid #222222;
 }
 
@@ -15,7 +13,6 @@
 .formulario-registro {
     display: flex;
     flex-direction: column;
-
     margin-bottom: 25px;
 }
 
@@ -27,19 +24,15 @@
 
 .formulario-registro input {
     width: 100%;
-
     margin-bottom: 8px;
     padding: 8px;
-
     border: 1px solid #555555;
 }
 
 .formulario-registro button {
     padding: 8px;
-
     background-color: white;
     border: 1px solid #222222;
-
     cursor: pointer;
 }
 
@@ -50,16 +43,13 @@
     display: flex;
     flex-direction: column;
     gap: 15px;
-
     margin-bottom: 25px;
 }
 
 .botoes-menu button {
     padding: 10px;
-
     background-color: white;
     border: 1px solid #222222;
-
     cursor: pointer;
 }
 

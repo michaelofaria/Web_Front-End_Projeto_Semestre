@@ -2,7 +2,6 @@
 
 .area-principal {
     flex: 1;
-
     padding-left: 25px;
 }
 
@@ -11,19 +10,15 @@
 
 .banner {
     position: relative;
-
     width: 70%;
     margin: 0 auto 30px;
-
     overflow: hidden;
 }
 
 .banner img {
     display: block;
-
     width: 100%;
     height: 250px;
-
     object-fit: cover;
 }
 
@@ -62,9 +57,7 @@
 
 .artigos {
     display: grid;
-
     grid-template-columns: 1fr 1fr;
-
     gap: 25px;
 }
 
@@ -73,7 +66,6 @@
 .artigos .artigo {
     display: flex;
     gap: 15px;
-
     padding: 5px;
 }
 
@@ -82,9 +74,7 @@
 .artigos .artigo img {
     width: 175px;
     height: 105px;
-
     object-fit: cover;
-
     flex-shrink: 0;
 }
 
@@ -97,12 +87,10 @@
 
 .artigos .artigo h2 {
     margin: 0 0 8px;
-
     font-size: 18px;
 }
 
 .artigos .artigo p {
     margin: 4px 0;
-
     font-size: 14px;
 }
