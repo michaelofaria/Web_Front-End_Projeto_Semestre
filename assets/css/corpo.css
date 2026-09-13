@@ -50,12 +50,10 @@
     line-height: 1.5;
 }
 
-
 /* OUTROS ARTIGOS */
 
 .artigos {
     display: grid;
-    grid-template-columns: repeat(3,1fr);
     gap: 25px;
 }
 
