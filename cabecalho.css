@@ -1,0 +1,40 @@
+
+/* CABEÇALHO */
+
+.cabecalho {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 70px;
+    padding: 10px 30px;
+
+    border-bottom: 1px solid #cccccc;
+}
+
+
+/* LINK DO CABEÇALHO */
+
+.logo a {
+    font-size: 28px;
+    font-weight: bold;
+    color: #111111;
+    text-decoration: none;
+}
+
+
+
+/* BOTÕES DO CABEÇALHO */
+
+.botoes-cabecalho {
+    display: flex;
+    gap: 15px;
+}
+
+.botoes-cabecalho button {
+    padding: 10px 20px;
+    background-color: white;
+    border: 1px solid #222222;
+    cursor: pointer;
+}

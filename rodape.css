@@ -1,0 +1,12 @@
+/* RODAPÉ */
+
+.rodape {
+    padding: 20px;
+
+    margin-top: 20px;
+
+    background-color: #222222;
+    color: white;
+
+    text-align: center;
+}
